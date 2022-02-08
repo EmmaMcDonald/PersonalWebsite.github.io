@@ -54,10 +54,34 @@ li a {
      top:0px;
      
  }
+
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x: hidden;
+   
+    #cliff
+
+{
+    position: absolute;
+    top: 0px;
+    overflow-x: hidden;
+}
+}
+
  #amongus{
      position:absolute;
-     top:850px;
+     top:830px;
      left:10px;
      z-index:2;
 
  }
+ 
+   .dance {
+           position: absolute;
+       
+           right:400px;
+           
+  }
+}
+       
