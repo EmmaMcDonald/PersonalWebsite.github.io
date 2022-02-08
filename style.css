@@ -54,3 +54,10 @@ li a {
      top:0px;
      
  }
+ #amongus{
+     position:absolute;
+     top:850px;
+     left:10px;
+     z-index:2;
+
+ }
